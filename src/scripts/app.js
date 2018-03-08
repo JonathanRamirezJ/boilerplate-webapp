@@ -1,1 +1,1 @@
-console.log('boilerpale-webapp');
+console.log("boilerpale-webapp"); // eslint-disable-line

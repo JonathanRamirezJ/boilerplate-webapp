@@ -1,7 +1,6 @@
-body {
-  background-color: #b9cfe5;
-}
+// Colors
+$color-bg: #b9cfe5;
 
-h1 {
-  text-align: center;
+body {
+  background-color: $color-bg;
 }
